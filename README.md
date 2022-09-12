@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mazenmahmoud79
 - 👀 I’m interested in programming and AI and data science
-- 🌱 I’m currently learning c++ / python / java 
+- 🌱 I’m currently learning c++ / python / java / dart / flutter / html / css 
 - 📫 How to reach me : maznmahmoud792003@gmail.com
 
 <!---

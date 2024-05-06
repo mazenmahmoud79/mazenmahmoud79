@@ -18,7 +18,7 @@ Feel free to explore my repositories for more exciting projects and collaboratio
 
 ## Let's Connect
 
-- 📫 Reach me via email: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me via email: [mazenbalatt@gmail.com](mailto:mazenbalatt@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mazenmahmoud/)
 - 🌐 Visit my [personal website](https://www.yourwebsite.com)
 

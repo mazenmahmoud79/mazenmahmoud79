@@ -1,50 +1,31 @@
-# Hi, I'm Mazen Mahmoud! 👋
+# Mazen Balat
 
-Welcome to my GitHub profile. I'm passionate about data analysis, data science, and machine learning. Here, you'll find a collection of projects, code, and insights related to my work in these fields.
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-## About Me
+## Senior Student of Artificial Intelligence and Data Science
 
-- 💼 Data Scientist and Analyst
-- 📊 Data Enthusiast
-- 🌍 Explorer of Data Insights
-- 🎓 Lifelong Learner
+<img align="right" width=200px height=200px src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-## GitHub Stats
+Hello! I'm Mazen Balat, a senior student at Egypt-Japan University in Alexandria, specializing in Artificial Intelligence and Data Science. I am passionate about leveraging AI and data to solve complex problems and create meaningful impact.
 
-[![Mazen Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazenmahmoud79&show_icons=true&count_private=true&hide=contribs,stars&theme=dark)](https://github.com/mazenmahmoud79)
+## 🔧 Skills
 
-
-Feel free to explore my repositories for more exciting projects and collaborations.
-
-## Let's Connect
-
-- 📫 Reach me via email: [mazenbalatt@gmail.com](mailto:mazenbalatt@gmail.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mazenmahmoud/)
-- 🌐 Visit my [personal website](https://www.yourwebsite.com)
-
-## Skills
-
-- Data Analysis
-- Data Visualization
+- Programming (Python, R, etc.)
+- Artificial Intelligence
 - Machine Learning
-- Python
-- SQL
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- Tableau
+- Deep Learning
+- Data Analysis & Visualization
+- Computer Vision
+- NLP
+- LLMS
 
-## Fun Facts
+## 📚 Education
 
-- 📚 I'm an avid reader, especially when it comes to data-related books.
-- 🚴‍♂️ I enjoy outdoor activities to clear my mind after a long day of coding.
+- **Bachelor of Science in Artificial Intelligence and Data Science** - Egypt-Japan University, Alexandria (20xx - Present)
 
-Thanks for visiting my GitHub profile. Feel free to explore my projects and repositories. If you have any questions or want to collaborate, don't hesitate to reach out. Let's build something amazing together! 🚀
+## 📫 Let's Connect!
 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mazen-mahmoud-381674232/) or via email at mazenbalatt@gmail.com for any inquiries, collaborations, or just to say hello!
 
-<!---
-mazenmahmoud79/mazenmahmoud79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-mahmoud-381674232/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazenbalatt@gmail.com)

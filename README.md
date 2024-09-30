@@ -21,7 +21,7 @@ Hello! I'm Mazen Balat, a senior student at Egypt-Japan University in Alexandria
 
 ## 📚 Education
 
-- **Bachelor of Science in Artificial Intelligence and Data Science** - Egypt-Japan University, Alexandria (20xx - Present)
+- **Bachelor of Science in Artificial Intelligence and Data Science** - Egypt-Japan University, Alexandria (2021 - Present)
 
 ## 📫 Let's Connect!
 
